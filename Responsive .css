@@ -1,0 +1,305 @@
+@media (max-width: 768px) {
+  .footer_section .container {
+    flex-direction: column;
+    align-items:center;
+    text-align: left;
+    letter-spacing: 20px;
+  }
+.useful_text{
+  text-align: center;
+}
+  .footer_menu ul,
+  .social_icon ul a{
+    align-items: left;
+    text-align: left;
+  }
+
+  .footer_section .col-lg-3,
+  .footer_section .col-sm-6 {
+    align-items: left;
+    left: 80px;
+    padding: auto;
+    left: 20px;
+  }
+
+  .location_text a {
+    text-align:center;
+    padding: 40px;
+  }
+
+  .subscribe_bt {
+    justify-content:left;
+  }
+  .social_icon{
+    position: center;
+  }
+}
+@media (max-width: 768px) {
+    .navbar-dark .navbar-nav .nav-link {
+      color: #00ffff; /* Cyan in mobile view */
+    }
+    .navbar-toggler {
+      background-color: #fff;
+  }
+  .header_social_icon{
+      display: none;
+  }
+  .header_section {
+      background-size: cover;
+  }
+  .banner_taital{
+      font-size: 50px;
+  }
+  .banner_section {
+      padding-bottom: 60px;
+      padding-top: 60px;
+  }
+  .client_taital{
+    left: 20px;
+  }
+  }
+  @media (max-width: 767.98px) {
+    .header_icon {
+      display: none;
+    }
+  }
+  
+@media (min-width: 576px) and (max-width: 767px) {
+  #main_slider a.carousel-control-prev {
+      position: absolute;
+      left: 175px;
+      top: 90%;
+      display: none;
+  }
+  #main_slider a.carousel-control-next {
+      position: absolute;
+      left: 236px;
+      top: 90%;
+      display: none;
+  }
+.logo {
+  width: 100%;
+}
+.bg-light {
+  background-color: transparent !important;
+  float: right;
+}
+.navbar-toggler {
+  background-color: #fff;
+}
+.header_social_icon{
+  display: none;
+}
+.header_section {
+  background-size: cover;
+}
+.banner_taital{
+  font-size: 50px;
+}
+.banner_section {
+  padding-bottom: 60px;
+  padding-top: 60px;
+}
+.about_taital_main {
+  padding-top: 0;
+}
+.about_taital {
+  font-size: 30px;
+}
+.making_text {
+ font-size: 20px;
+}
+.about_box_2{
+  left: 0px;
+}
+.improve_taital {
+  font-size: 40px;
+}
+.improve_text {
+  width: 100%;
+}
+.image_bg {
+  padding: 140px 0px;
+  background-size: cover;
+}
+.play_icon {
+  width: 60px;
+}
+.play_icon::before {
+  top: 30px;
+  left: 30px;
+  width: 70px;
+  height: 70px;
+}
+.improve_section_2 {
+  margin-top: 90px;
+  padding: 40px 0px;
+  margin-bottom: 0;
+  background-size: cover;
+}
+.gallery_taital{
+  margin-top: 0px;
+  font-size: 30px;
+}
+.client_main{
+  display: inline-block;
+}
+.client_taital{
+  font-size: 30px;
+}
+.client_text {
+  width: 100%;
+}
+.client_text_main {
+  width: 100%;
+}
+.contact_section{
+  padding-top: 0px;
+  padding-bottom: 90px;
+}
+.mail_section_1 {
+  width: 100%;
+}
+  .useful_text {
+      padding-top: 30px;
+  }
+}
+
+@media (max-width: 575px) {
+  #main_slider a.carousel-control-prev {
+      position: absolute;
+      left: 175px;
+      top: 90%;
+      display: none;
+  }
+  #main_slider a.carousel-control-next {
+      position: absolute;
+      left: 236px;
+      top: 90%;
+      display: none;
+  }
+.logo {
+  width: 100%;
+}
+.bg-light {
+  background-color: transparent !important;
+  float: right;
+  padding-right: 0px;
+}
+.navbar-toggler {
+  background-color: #fff;
+}
+.header_social_icon{
+  display: none;
+}
+.header_section {
+  background-size: cover;
+}
+.banner_taital{
+  font-size: 30px;
+}
+.banner_section {
+  padding-bottom: 60px;
+  padding-top: 60px;
+}
+.about_taital_main {
+  padding-top: 0;
+}
+.about_taital {
+  font-size: 26px;
+}
+.making_text {
+ font-size: 18px;
+}
+.about_box_2{
+  left: 0px;
+}
+.improve_taital {
+  font-size: 30px;
+}
+.improve_text {
+  width: 100%;
+  font-size: 15px;
+}
+.image_bg {
+  padding: 40px 0px;
+  background-size: cover;
+}
+.play_icon {
+  width: 60px;
+}
+.play_icon::before {
+  top: 30px;
+  left: 30px;
+  width: 70px;
+  height: 70px;
+}
+.improve_section_2 {
+  margin-top: 90px;
+  padding: 40px 0px;
+  margin-bottom: 0;
+  background-size: cover;
+}
+.gallery_taital{
+  margin-top: 0px;
+  font-size: 30px;
+}
+.client_main{
+  display: inline-block;
+}
+.client_taital{
+  font-size: 30px;
+}
+.client_text {
+  width: 100%;
+}
+.client_text_main {
+  width: 100%;
+}
+.contact_section{
+  padding-bottom: 90px;
+}
+.mail_section_1 {
+  width: 100%;
+}
+  .useful_text {
+      padding-top: 30px;
+  }
+}/*
+@media (max-width: 768px) {
+  .footer_section .container {
+    flex-direction: column;
+    align-items:center;
+    text-align: left;
+    letter-spacing: 20px;
+  }
+.useful_text{
+  text-align: center;
+}
+  .footer_menu ul,
+  .social_icon ul a{
+    align-items: left;
+    text-align: left;
+  }
+
+  .footer_section .col-lg-3,
+  .footer_section .col-sm-6 {
+    align-items: left;
+    left: 80px;
+    padding: auto;
+    left: 20px;
+  }
+
+  .location_text a {
+    text-align:center;
+    padding: 40px;
+  }
+
+  .subscribe_bt {
+    justify-content:left;
+  }
+  .social_icon{
+    position: center;
+  }
+}
+*/
